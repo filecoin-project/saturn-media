@@ -5,7 +5,7 @@ This is a repository where media generated for the saturn initiative will be col
 
 ## Gallery
 
-All graphics posted here can be found on slate https://slate.host/benjaminpreiss/filecoin-saturn-media
+An overview of the graphics in this repo can be found on slate https://slate.host/benjaminpreiss/filecoin-saturn-media
 
 ### Saturn Renderings
 
