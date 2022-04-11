@@ -22,3 +22,10 @@ The following renderings were create with blender (Blender file uploaded to this
 Rendering of filecoin front view orthographic - https://nftstorage.link/ipfs/bafybeigts7fwhkqguak74qof6r5sntwysrclfzglns523px5m2lbravzby
 
 Rendering of filecoin top view orthographic - https://nftstorage.link/ipfs/bafybeibscyr53jthpdqkrqqohu3ivo233ga7mvrsfkxvko7oc6bsjy7wbe
+
+## License
+
+This work is dual-licensed under Apache 2.0 and MIT.
+You can choose between one of them if you use this work.
+
+`SPDX-License-Identifier: Apache-2.0 OR MIT`
